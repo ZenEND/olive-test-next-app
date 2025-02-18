@@ -40,3 +40,8 @@ a {
     color-scheme: dark;
   }
 }
+
+:where(.ant-typography) {
+  color: white !important;
+}
+

@@ -1,0 +1,13 @@
+.container {
+    max-width: 1200px;
+    width: 100%;
+}
+
+.table {
+    max-width: 100%;
+    min-width: 100%;
+}
+
+.table table {
+    max-width: 100%;
+}
